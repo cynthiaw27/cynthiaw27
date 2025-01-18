@@ -1,5 +1,4 @@
-- 👋 Hi! I’m Cynthia Wang and I am a second-year Math of CS major at UCLA :)
-- 😄 Pronouns: she/her
+- 😄 Hi! I’m Cynthia Wang (she/her) and I am a second-year Math of CS major at UCLA :)
 - 📫 How to reach me: cynthiaw27@g.ucla.edu 
 - 🌱 Currently learning... how to produce music
 - 🎶 Recent fav song: https://open.spotify.com/track/73g0qO3PkUjLH7vov3Fbuz?si=5657ba03cd104758
