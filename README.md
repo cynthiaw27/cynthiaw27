@@ -1,6 +1,6 @@
 - 😄 Hi! I’m Cynthia Wang (she/her) and I am a second-year Math of CS major at UCLA :)
 - 📫 How to reach me: cynthiaw27@g.ucla.edu 
-- 🌱 Currently learning... how to make a blog website
+- 🌱 Currently learning... backend dev (node.js, etc.)
 - 🎶 Recent fav song: https://open.spotify.com/track/2bl81llf715VEEbAx03yvB?si=6051753654f34077
 
 <!---
